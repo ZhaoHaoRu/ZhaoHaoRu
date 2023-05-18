@@ -1,6 +1,5 @@
 <p align="center"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/></p>
 
-<p align="center"><img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
