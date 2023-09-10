@@ -3,22 +3,22 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from @SJTU-SE.
+I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from @SJTU-SE, also a member of @IPADS.
 
-- 🔭 I’m working on many interesting projects, such as [distributed file system](https://github.com/ZhaoHaoRu/CHFS) and [compiler](https://github.com/ZhaoHaoRu/tiger-compiler).
+- 🔭 I once worked on many interesting projects, such as [distributed file system](https://github.com/ZhaoHaoRu/CHFS) and [compiler](https://github.com/ZhaoHaoRu/tiger-compiler).
 - 💻 I have participated in research related to bandit algorithm, our paper was accepted by UAI 2022, this is our [experiment](https://github.com/ZhaoHaoRu/Federated-Clustering-of-Bandits)
 - 🙂 I use github to document my learning experience like how to use [rdma](https://github.com/ZhaoHaoRu/RDMA-rsocket-example), my [course notes and exams](https://github.com/ZhaoHaoRu/SJTU-SE-Notes)
 - 🌱 I'm looking for an appropriate opportunity in industry.
-- ⚡ In my free time I solve problems on leetcode and read tech articles.
+- ⚡ I am interested in eBPF and kv store now.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"  title="Golang" alt="go" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"  title="Golang" alt="go" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
