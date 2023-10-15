@@ -30,8 +30,12 @@ I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ### 🔥 &nbsp; My Stats :
 [![stats](https://github-readme-stats.vercel.app/api?username=ZhaoHaoRu&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoHaoRu&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoHaoRu&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
