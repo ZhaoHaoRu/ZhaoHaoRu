@@ -31,6 +31,15 @@ I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOC
 ### 🔥 &nbsp; My Stats :
 [![stats](https://github-readme-stats.vercel.app/api?username=ZhaoHaoRu&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+
+```txt
+C++     9 mins          ██████████████████░░░░░░░   72.20 %
+Rust    3 mins          ███████░░░░░░░░░░░░░░░░░░   27.74 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TOML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoHaoRu&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  -->
 
