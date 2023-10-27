@@ -29,7 +29,13 @@ I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOC
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![stats](https://github-readme-stats.vercel.app/api?username=ZhaoHaoRu&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhaoHaoRu&theme=react" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Haoru_Zhao&theme=react" />
+</a>
+<!-- [![stats](https://github-readme-stats.vercel.app/api?username=ZhaoHaoRu&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haoru_Zhao&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoHaoRu&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) --!>
 
