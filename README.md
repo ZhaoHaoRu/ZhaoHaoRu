@@ -30,10 +30,10 @@ I am an undergraduate student <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ### 🔥 &nbsp; My Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhaoHaoRu&theme=react" />
+  <img width="40%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=ZhaoHaoRu&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Haoru_Zhao&theme=react" />
+  <img width="40%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Haoru_Zhao&theme=react" />
 </a>
 <!-- [![stats](https://github-readme-stats.vercel.app/api?username=ZhaoHaoRu&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haoru_Zhao&theme=react)](https://github.com/anuraghazra/github-readme-stats)
